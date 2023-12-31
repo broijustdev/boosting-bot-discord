@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "discord.js-selfbot-v13": "^2.14.6",
+    "fs": "^0.0.1-security",
+    "gradient-string": "^2.0.2",
+    "http-proxy-agent": "^7.0.0",
+    "https-proxy-agent": "^7.0.0",
+    "inquirer": "^8.2.5",
+    "nanospinner": "^1.1.0",
+    "node-capmonster": "^0.4.2",
+    "proxy-agent": "^6.2.1",
+    "util": "^0.12.5"
+  }
+}
